@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Ali Parsa
+<!-- # 👋 Hi, I'm Ali Parsa -->
+<img src="./assets/skills/logo.svg" width="800">
 
 ### Laravel Developer • PHP Backend Developer • Web Developer
 
