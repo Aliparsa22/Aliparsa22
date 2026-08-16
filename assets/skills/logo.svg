@@ -1,48 +1,74 @@
-<svg width="100%" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg" role="img" style="">
-<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:anthropic-sans, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Pixel glitch text effect</title>
-<desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:anthropic-sans, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Hi, I'm Ali Parsa with animated pixel-displacement glitch bands over solid white text</desc>
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
 
-<defs>
-  <filter id="pixnoise" x="-5%" y="-50%" width="110%" height="200%">
-    <feTurbulence type="fractalNoise" baseFrequency="0.9 0.4" numOctaves="1" seed="4" result="noise">
-      
-    </feTurbulence>
-    <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 9 -3" result="mask"/>
-    <feComposite in="SourceGraphic" in2="mask" operator="in" result="pixels"/>
-    <feDisplacementMap in="pixels" in2="noise" scale="8" xChannelSelector="R" yChannelSelector="G"/>
-  </filter>
+  <defs>
+    <filter id="glitch">
+      <feTurbulence
+        type="fractalNoise"
+        baseFrequency="0.9"
+        numOctaves="1"
+        seed="2"
+        result="noise"
+      />
 
-  <clipPath id="band1">
-    <rect x="0" y="32" width="600" height="8">
-      
-      
-    </rect>
-  </clipPath>
+      <feDisplacementMap
+        in="SourceGraphic"
+        in2="noise"
+        scale="4"
+        xChannelSelector="R"
+        yChannelSelector="G"
+      />
+    </filter>
 
-  <clipPath id="band2">
-    <rect x="0" y="62" width="600" height="7">
-      
-      
-    </rect>
-  </clipPath>
-</defs>
+    <clipPath id="slice1">
+      <rect x="0" y="35" width="600" height="12"/>
+    </clipPath>
 
+    <clipPath id="slice2">
+      <rect x="0" y="70" width="600" height="10"/>
+    </clipPath>
+  </defs>
 
-<text x="300" y="68" text-anchor="middle" font-family="monospace" font-size="36" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:36px;font-weight:700;text-anchor:middle;dominant-baseline:auto"># Hi, I'm Ali Parsa</text>
-
-
-<g clip-path="url(#band1)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:anthropic-sans, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <text x="296" y="68" text-anchor="middle" font-family="monospace" font-size="36" font-weight="700" fill="#ff003c" filter="url(#pixnoise)" style="fill:rgb(255, 0, 60);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.121667;font-family:monospace;font-size:36px;font-weight:700;text-anchor:middle;dominant-baseline:auto">
+  <!-- Main text -->
+  <text
+    x="300"
+    y="68"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="36"
+    font-weight="700"
+    fill="#ffffff"
+  >
     # Hi, I'm Ali Parsa
-    
   </text>
-</g>
 
-
-<g clip-path="url(#band2)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:anthropic-sans, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-  <text x="304" y="68" text-anchor="middle" font-family="monospace" font-size="36" font-weight="700" fill="#00e5ff" filter="url(#pixnoise)" style="fill:rgb(0, 229, 255);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.238125;font-family:monospace;font-size:36px;font-weight:700;text-anchor:middle;dominant-baseline:auto">
+  <!-- Red glitch -->
+  <text
+    x="296"
+    y="68"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="36"
+    font-weight="700"
+    fill="#ff003c"
+    opacity="0.8"
+    clip-path="url(#slice1)"
+  >
     # Hi, I'm Ali Parsa
-    
   </text>
-</g>
+
+  <!-- Cyan glitch -->
+  <text
+    x="304"
+    y="68"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="36"
+    font-weight="700"
+    fill="#00e5ff"
+    opacity="0.8"
+    clip-path="url(#slice2)"
+  >
+    # Hi, I'm Ali Parsa
+  </text>
+
 </svg>
