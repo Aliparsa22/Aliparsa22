@@ -30,63 +30,27 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 ## 🧠 My Skills
 
-### ⚡ Backend Development
+<p align="center">
 
-**Laravel / PHP — 80%**
+<img src="./assets/skills/laravel.svg" width="800">
 
-```text
-████████████████████░░░░░
-```
+<br>
 
-**Laravel • PHP • REST APIs • MVC • Blade • Eloquent • Authentication • Queues • Jobs**
+<img src="./assets/skills/frontend.svg" width="800">
 
----
+<br>
 
-### 🎨 Frontend Development
+<img src="./assets/skills/javascript.svg" width="800">
 
-**HTML / CSS / Bootstrap — 80%**
+<br>
 
-```text
-████████████████████░░░░░
-```
+<img src="./assets/skills/mysql.svg" width="800">
 
-**HTML • CSS • Bootstrap 5 • Responsive Design • RTL • UI Components**
+<br>
 
----
+<img src="./assets/skills/git.svg" width="800">
 
-### ⚙️ JavaScript
-
-**JavaScript — 70%**
-
-```text
-██████████████████░░░░░░░
-```
-
-**JavaScript • DOM • Events • AJAX • Fetch • LocalStorage • Select2 • Datepickers • UI Interactions**
-
----
-
-### 🗄️ Database
-
-**MySQL / Database — 70%**
-
-```text
-██████████████████░░░░░░░
-```
-
-**MySQL • Database Design • Relationships • Eloquent ORM • Queries • Migrations • Pivot Tables**
-
----
-
-### 🔧 Development Tools
-
-**Git / GitHub — 65%**
-
-```text
-████████████████░░░░░░░░░
-```
-
-**Git • GitHub • Composer • npm • VS Code • XAMPP**
+</p>
 
 ---
 
