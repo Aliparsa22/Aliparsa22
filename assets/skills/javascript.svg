@@ -1,0 +1,65 @@
+<svg width="900" height="125" viewBox="0 0 900 125"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="125" rx="16" fill="#0D1117"/>
+
+  <!-- JS Icon -->
+  <rect x="25" y="27"
+        width="50"
+        height="50"
+        rx="5"
+        fill="#F7DF1E"/>
+
+  <text x="50" y="63"
+        fill="#111111"
+        font-family="Arial, sans-serif"
+        font-size="25"
+        font-weight="700"
+        text-anchor="middle">
+    JS
+  </text>
+
+  <text x="95" y="38"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="20"
+        font-weight="700">
+    JAVASCRIPT
+  </text>
+
+
+  <text x="855" y="38"
+        fill="#F7DF1E"
+        font-family="Arial, sans-serif"
+        font-size="21"
+        font-weight="700"
+        text-anchor="end">
+    70%
+  </text>
+
+  <rect x="95" y="58"
+        width="760"
+        height="40"
+        rx="8"
+        fill="none"
+        stroke="#F7DF1E"
+        stroke-width="2"/>
+
+  <rect x="103" y="66" width="64" height="24" rx="2" fill="#F7DF1E"/>
+  <rect x="175" y="66" width="64" height="24" rx="2" fill="#F7DF1E"/>
+  <rect x="247" y="66" width="64" height="24" rx="2" fill="#F7DF1E"/>
+  <rect x="319" y="66" width="64" height="24" rx="2" fill="#F7DF1E"/>
+  <rect x="391" y="66" width="64" height="24" rx="2" fill="#F7DF1E"/>
+  <rect x="463" y="66" width="64" height="24" rx="2" fill="#F7DF1E"/>
+  <rect x="535" y="66" width="64" height="24" rx="2" fill="#F7DF1E"/>
+
+  <rect x="607" y="66" width="64" height="24"
+        rx="2" fill="none" stroke="#30363D"/>
+
+  <rect x="679" y="66" width="64" height="24"
+        rx="2" fill="none" stroke="#30363D"/>
+
+  <rect x="751" y="66" width="64" height="24"
+        rx="2" fill="none" stroke="#30363D"/>
+
+</svg>

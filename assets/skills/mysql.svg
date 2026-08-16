@@ -1,0 +1,64 @@
+<svg width="900" height="125" viewBox="0 0 900 125"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="125" rx="16" fill="#0D1117"/>
+
+  <!-- Database Icon -->
+  <ellipse cx="50" cy="29" rx="25" ry="10"
+           fill="none"
+           stroke="#2496ED"
+           stroke-width="4"/>
+
+  <path d="M25 29V63C25 69 36 73 50 73C64 73 75 69 75 63V29"
+        fill="none"
+        stroke="#2496ED"
+        stroke-width="4"/>
+
+  <path d="M25 45C25 51 36 55 50 55C64 55 75 51 75 45"
+        fill="none"
+        stroke="#2496ED"
+        stroke-width="3"/>
+
+  <text x="95" y="38"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="20"
+        font-weight="700">
+    MYSQL / DATABASE
+  </text>
+
+  <text x="855" y="38"
+        fill="#2496ED"
+        font-family="Arial, sans-serif"
+        font-size="21"
+        font-weight="700"
+        text-anchor="end">
+    70%
+  </text>
+
+  <rect x="95" y="58"
+        width="760"
+        height="40"
+        rx="8"
+        fill="none"
+        stroke="#2496ED"
+        stroke-width="2"/>
+
+  <rect x="103" y="66" width="64" height="24" rx="2" fill="#2496ED"/>
+  <rect x="175" y="66" width="64" height="24" rx="2" fill="#2496ED"/>
+  <rect x="247" y="66" width="64" height="24" rx="2" fill="#2496ED"/>
+  <rect x="319" y="66" width="64" height="24" rx="2" fill="#2496ED"/>
+  <rect x="391" y="66" width="64" height="24" rx="2" fill="#2496ED"/>
+  <rect x="463" y="66" width="64" height="24" rx="2" fill="#2496ED"/>
+  <rect x="535" y="66" width="64" height="24" rx="2" fill="#2496ED"/>
+
+  <rect x="607" y="66" width="64" height="24"
+        rx="2" fill="none" stroke="#30363D"/>
+
+  <rect x="679" y="66" width="64" height="24"
+        rx="2" fill="none" stroke="#30363D"/>
+
+  <rect x="751" y="66" width="64" height="24"
+        rx="2" fill="none" stroke="#30363D"/>
+
+</svg>
