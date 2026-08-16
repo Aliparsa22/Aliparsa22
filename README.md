@@ -3,9 +3,15 @@
 ### Laravel Developer • PHP Backend Developer • Web Developer
 
 <p align="left">
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -14,39 +20,73 @@
 
 I'm a **Web Developer focused on Laravel and PHP**, currently growing my skills toward becoming a **Senior Backend Developer**.
 
-I enjoy building clean, practical and scalable web applications, working mainly with **Laravel, PHP, MySQL and JavaScript**.
+I build modern, practical and scalable web applications, with a strong focus on **Laravel, PHP, JavaScript, databases and responsive web interfaces**.
 
-I'm constantly learning, improving my architecture and writing better, cleaner and more maintainable code.
+I enjoy turning ideas into real-world applications and continuously improving my code, architecture and problem-solving skills.
 
-> **My goal:** Build better software, one project at a time. 🚀
+> **Building better software, one project at a time. 🚀**
 
 ---
 
-## 🧠 My Current Focus
+## 🧠 My Skills
+
+### ⚡ Backend Development
+
+**Laravel / PHP — 80%**
 
 ```text
-Laravel / PHP        ████████████████████  80%
-Database / MySQL     ██████████████████░░  70%
-HTML / CSS / Bootstrap████████████████░░░░  65%
-Git / GitHub         ███████████████░░░░░  60%
-JavaScript           █████████████░░░░░░░  55%
+████████████████████░░░░░
 ```
 
-### 💻 Backend — 80%
+**Laravel • PHP • REST APIs • MVC • Blade • Eloquent • Authentication • Queues • Jobs**
 
-**Laravel • PHP • REST APIs • Authentication • MVC • Blade • Eloquent • Queues • Jobs**
+---
 
-### 🗄️ Database — 70%
+### 🎨 Frontend Development
 
-**MySQL • Database Design • Relationships • Eloquent ORM • Query Optimization**
+**HTML / CSS / Bootstrap — 80%**
 
-### 🎨 Frontend — 65%
+```text
+████████████████████░░░░░
+```
 
-**HTML • CSS • Bootstrap • JavaScript • AJAX • Responsive Design**
+**HTML • CSS • Bootstrap 5 • Responsive Design • RTL • UI Components**
 
-### 🔧 Tools — 60%
+---
 
-**Git • GitHub • Composer • npm • VS Code**
+### ⚙️ JavaScript
+
+**JavaScript — 70%**
+
+```text
+██████████████████░░░░░░░
+```
+
+**JavaScript • DOM • Events • AJAX • Fetch • LocalStorage • Select2 • Datepickers • UI Interactions**
+
+---
+
+### 🗄️ Database
+
+**MySQL / Database — 70%**
+
+```text
+██████████████████░░░░░░░
+```
+
+**MySQL • Database Design • Relationships • Eloquent ORM • Queries • Migrations • Pivot Tables**
+
+---
+
+### 🔧 Development Tools
+
+**Git / GitHub — 65%**
+
+```text
+████████████████░░░░░░░░░
+```
+
+**Git • GitHub • Composer • npm • VS Code • XAMPP**
 
 ---
 
@@ -55,85 +95,90 @@ JavaScript           █████████████░░░░░░�
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
 </p>
 
 ### Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,composer,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,composer,vscode" />
 </p>
 
 ---
 
 ## 🔥 What I Build
 
-```text
-┌──────────────────────────────────────────────┐
-│              WEB APPLICATIONS                │
-├──────────────────────────────────────────────┤
-│                                              │
-│  ⚡ Laravel Applications                    │
-│  🔐 Authentication & Authorization           │
-│  🗄️ Database-driven Systems                  │
-│  🔌 REST APIs                                │
-│  📊 Admin Panels                             │
-│  👥 Management Systems                       │
-│  🛒 E-commerce Features                      │
-│  🎨 Responsive Web Interfaces                │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Backend
+
+* Laravel Applications
+* REST APIs
+* Authentication & Authorization
+* MVC Architecture
+* Database-driven Systems
+* Admin Panels
+* Management Systems
+
+</td>
+<td width="50%">
+
+### 🎨 Frontend
+
+* Responsive Interfaces
+* Bootstrap-based Designs
+* JavaScript Interactions
+* AJAX Applications
+* Dynamic Forms
+* RTL Interfaces
+* Modern UI Components
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Currently Learning
+## 💻 Development Philosophy
 
-I'm currently focusing on:
+```text
+Clean Code       ████████████████████
+Problem Solving  ███████████████████░
+Backend Focus    ████████████████████
+UI & UX          ███████████████████░
+Continuous Growth████████████████████
+```
 
-* 🏗️ Advanced Laravel Architecture
-* 🚀 Writing cleaner and more maintainable backend code
-* 🗄️ Advanced Database Design & Optimization
-* 🔌 Building scalable APIs
-* ⚙️ Design Patterns & SOLID Principles
-* 📈 Improving my skills toward Senior-level development
+I believe good software is not only about making things work.
+
+It's about writing **clean, maintainable and understandable code** that can grow with the project.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"
+    height="170"
+  />
 </p>
 
----
-
-## 🌱 My Development Journey
-
-```text
-Web Development
-      │
-      ▼
-   PHP / Laravel
-      │
-      ├── Backend Development
-      │
-      ├── Database & Architecture
-      │
-      ├── REST APIs
-      │
-      └── Frontend Integration
-               │
-               ▼
-        Senior Developer 🚀
-```
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+</p>
 
 ---
 
@@ -142,13 +187,19 @@ Web Development
 I'm always interested in learning, building new projects and connecting with other developers.
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Code. Learn. Build. Improve. 🚀</b>
+  <b>Code. Build. Learn. Improve. 🚀</b>
 </p>
