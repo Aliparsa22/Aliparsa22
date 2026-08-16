@@ -71,7 +71,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 ### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,composer,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 ---
