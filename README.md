@@ -138,7 +138,7 @@ I'm always interested in learning, building new projects and connecting with oth
   <!-- <a href="#">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> -->
-  <a href="https://t.me/Ali_parsa2232">
+  <a href="https://t.me/Ali_parsa2232" target="_black">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
